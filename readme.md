@@ -78,7 +78,7 @@ It's not just an assistant — it's an extension of your digital life.
 |  Tool Budget | A small model is given the tools that matter instead of all 45 — core-first, by count and by size |
 |  Real-time Voice | Ultra-low latency conversation in any language via Gemini Live API |
 |  Live Theming | Recolour the entire HUD from a hue wheel or hex — the avatar retints with it |
-| 〰 Reactive HUD | Waveform pulses to real audio — your mic while listening, JARVIS while speaking |
+| Reactive HUD | Waveform pulses to real audio — your mic while listening, JARVIS while speaking |
 | Voice Picker | Choose from 5 native Gemini voices and switch live from the UI — no restart |
 |  Unlimited Sessions | Sliding-window context compression — one conversation can last for hours |
 |  System Control | Launch apps, adjust volume/brightness, WiFi, shortcuts, power — all by voice |
